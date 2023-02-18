@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../ПерваяВёрстка"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ТретьяВёрстка"
+  }
+}
